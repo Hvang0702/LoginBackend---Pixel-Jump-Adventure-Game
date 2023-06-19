@@ -17,4 +17,4 @@ This repository contains the code that I used for the login page for my Pixel Ad
 * Password hashing using Argon2 algorithm to enhance security.
 * Integration with MongoDB to store user information securely on a server.
 
-
+![LoginScreen](https://github.com/Hvang0702/LoginBackend---Pixel-Jump-Adventure-Game/assets/120008455/e2bcf809-3a81-4aab-80aa-657f090b507d)

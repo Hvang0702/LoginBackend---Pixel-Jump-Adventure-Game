@@ -18,4 +18,3 @@ This repository contains the code that I used for the login page for my Pixel Ad
 * Integration with MongoDB to store user information securely on a server.
 
 
-![logindb](https://github.com/Hvang0702/LoginBackend---Pixel-Jump-Adventure-Game/assets/120008455/a94ceea9-3e9c-4850-b0f6-2b3637a47299)
